@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="style.css">
+
+  <title>Produtos | Art e Amigurumi</title>
+</head>
+
+<body>
+
+  <header class="header">
+
+    <a class="brand" href="index.html">
+      <img src="assets/logo-art-amigurumi.jpg"
+           alt="Logo Art e Amigurumi">
+
+      <span>
+        Art e Amigurumi
+        <small>BRINQUEDO SEGURO PARA SEU BEBÊ</small>
+      </span>
+    </a>
+
+    <button class="menu-toggle"
+            aria-label="Abrir menu"
+            aria-expanded="false">
+      <i></i><i></i><i></i>
+    </button>
+
+    <nav class="nav">
+      <a href="index.html">Início</a>
+      <a href="#colecao">Coleção</a>
+      <a href="index.html#sobre">Nossa história</a>
+      <a href="index.html#personalizados">Personalizados</a>
+      <a href="https://wa.me/c/5512992025492">Contato</a>
+
+      <a class="btn btn-nav" href="#colecao">
+        Ver produtos
+      </a>
+    </nav>
+
+  </header>
+
+  <main>
+
+    <section class="section collection" id="colecao">
+
+      <div class="section-heading">
+
+        <span class="eyebrow">
+          FEITO À MÃO COM AMOR
+        </span>
+
+        <h1>Nossos produtos</h1>
+
+        <p>
+          Peças artesanais feitas para encantar
+          e criar memórias.
+        </p>
+
+      </div>
+
+      <div class="filters" role="group"
+           aria-label="Filtrar produtos">
+
+        <button class="filter active"
+                data-filter="todos">
+          Todos
+        </button>
+        <button class="filter" data-filter="mobile">Móbile</button>
+
+        <button class="filter"
+                data-filter="safari">
+          Safari
+        </button>
+
+        <button class="filter"
+                data-filter="fazenda">
+          Fazenda
+        </button>
+
+        <button class="filter"
+                data-filter="bosque">
+          Bosque
+        </button>
+
+      </div>
+
+       <div class="product-grid">
+        
+      </div>
+
+    </section>
+
+  </main>
+
+   <footer id="contato">
+    <div class="footer-main">
+      <a class="brand footer-brand" href="#inicio"><img src="assets/logo-art-amigurumi.jpg" alt=""><span>Art e Amigurumi<small>Brinquedo seguro para seu bebê</small></span></a>
+      <div><h3>Explore</h3><a href="#colecao">Coleção</a><a href="#sobre">Nossa história</a><a href="#personalizados">Personalizados</a></div>
+      <div><h3>Atendimento</h3><a href="catalogo.html" target="_blank" rel="noopener">Catálogo online</a><a href="https://wa.me/c/5512992025492" target="_blank" rel="noopener">Fale conosco</a><a href="https://www.instagram.com/art_eamigurumi/" target="_blank" rel="noopener">Instagram</a></div>
+      <div class="footer-message">Feito à mão,<br><em>com amor.</em> ♡</div>
+    </div>
+    <div class="copyright">© <span id="year"></span> Art e Amigurumi. Todos os direitos reservados.</div>
+  </footer>
+
+  <script src="products.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
