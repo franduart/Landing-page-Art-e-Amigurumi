@@ -34,7 +34,7 @@ const products = [
     descricao: "Leve esse lindo kit animais do safari de 20cm! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
     price: "520,00",
     image: "assets/safari 20cm.png",
-    linkCompra: ""
+    linkCompra: "https://wa.me/p/30351331894453542/5512992025492"
   },
    {
     id: 5,
@@ -43,7 +43,7 @@ const products = [
     descricao: "Leve esse lindo kit animais da fazenda de 16cm! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
     price: "250,00",
     image: "assets/fazenda 16cm.png",
-    linkCompra: ""
+    linkCompra: "https://wa.me/p/28978847218442563/5512992025492"
   },
   {
     id: 6,
@@ -52,7 +52,7 @@ const products = [
     descricao: "🦁 Mobile Safari em Amigurumi 🌿 Feito à mão com muito carinho, com leão, zebra, girafa e macaquinho em crochê. Uma decoração delicada e encantadora para deixar o quartinho do bebê ainda mais especial! ",
     price: "320,00",
     image: "assets/mobile safari.jpg",
-    linkCompra: ""
+    linkCompra: "https://wa.me/p/29472937098985828/5512992025492"
   },
   {
     id: 7,
@@ -70,7 +70,7 @@ const products = [
     descricao: "Leve esse lindo kit de 5 unidades do safari para casa! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
     price: "200,00",
     image: "assets/safari zebra listrada.jpg",
-    linkCompra: ""
+    linkCompra: "https://wa.me/p/29366062176321480/5512992025492"
   },
 
   {
@@ -80,7 +80,7 @@ const products = [
     descricao: "🦁 Mobile Safari em Amigurumi 🌿 Feito à mão com muito carinho, com leão, zebra, girafa e macaquinho em crochê. Uma decoração delicada e encantadora para deixar o quartinho do bebê ainda mais especial! ",
     price: "320,00",
     image: "assets/mobile safari3.png",
-    linkCompra: ""
+    linkCompra: "https://wa.me/p/30340338962235848/5512992025492"
   },
   {
     id: 10,
