@@ -24,7 +24,7 @@ const products = [
     title: "Jesus amigurumi",
     descricao: "Nosso Jesus em amigurumi foi produzido com muito carinho, cada pontinho feito à mão para representar aquele que é a maior expressão de amor por nós. Produzido com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico. Tem aproximadamente 17cm de altura",
     price: "120,00",
-    image: "assets/jesus.jpg",
+    image: "assets/jesus.jpeg",
     linkCompra: "https://wa.me/p/7582236215200369/5512992025492"
   },
   {
