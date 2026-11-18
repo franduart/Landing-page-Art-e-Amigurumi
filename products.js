@@ -20,6 +20,15 @@ const products = [
   },
   {
     id: 3,
+    category: "jesus",
+    title: "Jesus amigurumi",
+    descricao: "Nosso Jesus em amigurumi foi produzido com muito carinho, cada pontinho feito à mão para representar aquele que é a maior expressão de amor por nós. Produzido com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico. Tem aproximadamente 17cm de altura",
+    price: "120,00",
+    image: "assets/jesus.jpg",
+    linkCompra: "https://wa.me/p/7582236215200369/5512992025492"
+  },
+  {
+    id: 4,
     category: "bosque",
     title: "Kit mini animais do bosque 12cm",
     descricao: "Leve esse lindo kit animais do bosque! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
@@ -28,7 +37,7 @@ const products = [
     linkCompra: "https://wa.me/p/7582236215200369/5512992025492"
   },
    {
-    id: 4,
+    id: 5,
     category: "safari",
     title: "Kit safari 20cm",
     descricao: "Leve esse lindo kit animais do safari de 20cm! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
@@ -37,7 +46,7 @@ const products = [
     linkCompra: "https://wa.me/p/30351331894453542/5512992025492"
   },
    {
-    id: 5,
+    id: 6,
     category: "fazenda",
     title: "Kit fazenda 16cm",
     descricao: "Leve esse lindo kit animais da fazenda de 16cm! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
@@ -46,7 +55,7 @@ const products = [
     linkCompra: "https://wa.me/p/28978847218442563/5512992025492"
   },
   {
-    id: 6,
+    id: 7,
     category: "mobile",
     title: "Móbile safari",
     descricao: "🦁 Mobile Safari em Amigurumi 🌿 Feito à mão com muito carinho, com leão, zebra, girafa e macaquinho em crochê. Uma decoração delicada e encantadora para deixar o quartinho do bebê ainda mais especial! ",
@@ -55,7 +64,7 @@ const products = [
     linkCompra: "https://wa.me/p/29472937098985828/5512992025492"
   },
   {
-    id: 7,
+    id: 8,
     category: "safari",
     title: "Kit safari (6 unidades) 12cm",
     descricao: "Leve esse lindo kit de 6 unidades do safari para casa! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
@@ -64,7 +73,7 @@ const products = [
     linkCompra: "https://wa.me/p/7542976529088969/5512992025492"
   },
   {
-    id: 8,
+    id: 9,
     category: "safari",
     title: "Kit safari (5 unidades) 12cm",
     descricao: "Leve esse lindo kit de 5 unidades do safari para casa! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
@@ -74,7 +83,7 @@ const products = [
   },
 
   {
-    id: 9,
+    id: 10,
     category: "mobile",
     title: "Móbile safari",
     descricao: "🦁 Mobile Safari em Amigurumi 🌿 Feito à mão com muito carinho, com leão, zebra, girafa e macaquinho em crochê. Uma decoração delicada e encantadora para deixar o quartinho do bebê ainda mais especial! ",
@@ -83,13 +92,22 @@ const products = [
     linkCompra: "https://wa.me/p/30340338962235848/5512992025492"
   },
   {
-    id: 10,
+    id: 11,
     category: "fazenda",
     title: "Kit fazenda 12cm",
     descricao: "Leve esse lindo kit animais da fazenda de 12cm! São perfeitos para enfeitar o quartinho, festas de aniversário e muito mais. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
     price: "180,00",
     image: "assets/fazendinha.jpg",
     linkCompra: "https://wa.me/p/39445525915092466/5512992025492"
+  },
+   {
+    id: 12,
+    category: "Papai Noel",
+    title: "Papai noel",
+    descricao: "Leve esse lindo papai noel e deixe o seu natal ainda mais especial. Produzidos com fio 100% algodão, olhos com trava de segurança e enchimento antialérgico.",
+    price: "120,00",
+    image: "assets/noel.webp",
+    linkCompra: "https://wa.me/p/28929925020013488/5512992025492"
   },
 ];
 
